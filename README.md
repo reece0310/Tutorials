@@ -1,1 +1,1 @@
-Reece Chambers - experimenting with programming languages for data visualisation.
+Experimenting with programming languages for data visualisation.
